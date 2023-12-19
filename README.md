@@ -33,4 +33,4 @@ Amati ketiga error tersebut mana yang paling mendekati _\*Hasil Eksak_
 - Hasil 1
 <img src="./src/hasil1.png" alt="hasil 1"/>
 - Hasil 2
-<img src="./src/hasil2.png" alt="hasil 1"/>
+<img src="./src/hasil2.png" alt="hasil 2"/>
